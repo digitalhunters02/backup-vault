@@ -1,0 +1,8 @@
+node_modules
+.git
+.env
+test
+.tmp
+*.dump
+*.enc
+README.md
